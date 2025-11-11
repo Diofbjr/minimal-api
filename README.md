@@ -32,18 +32,19 @@ Foi criado como parte de um **Bootcamp da Digital Innovation One (DIO)**, aplica
 
 A aplicação segue um **padrão em camadas**, organizando de forma limpa e escalável:
 
+```bash
 📦 minimal-api
 ├── 📁 Dominio
-│ ├── Entidades
-│ ├── DTOs
-│ ├── Interfaces
-│ ├── Enums
-│ └── ModelViews
+│   ├── Entidades
+│   ├── DTOs
+│   ├── Interfaces
+│   ├── Enums
+│   └── ModelViews
 ├── 📁 Infraestrutura
-│ └── DbContexto
+│   └── DbContexto
 ├── 📁 Servicos
-│ └── (Lógica de Negócio)
-├── Program.cs (Configuração e Endpoints)
+│   └── (Lógica de Negócio)
+├── Program.cs  (Configuração e Endpoints)
 └── appsettings.json
 
 

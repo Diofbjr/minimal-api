@@ -46,7 +46,7 @@ A aplicação segue um **padrão em camadas**, organizando de forma limpa e esca
 │   └── (Lógica de Negócio)
 ├── Program.cs  (Configuração e Endpoints)
 └── appsettings.json
-
+```
 
 
 ---

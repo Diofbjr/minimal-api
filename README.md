@@ -134,9 +134,8 @@ Os testes garantem a integridade e o comportamento correto dos serviços e endpo
 
 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome ou GitHub User]
-📫 Entre em contato: [diogofbjr@gmail.com
-]
+Desenvolvido por [https://github.com/Diofbjr]
+📫 Entre em contato: [diogofbjr@gmail.com]
 🌐 GitHub: https://github.com/Diofbjr
 
 🏅 Licença
